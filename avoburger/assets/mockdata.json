@@ -1,0 +1,130 @@
+[
+    {
+      "id": 1,
+      "name": "Burger",
+      "weight": "350",
+      "price": "17.99",
+      "isVegan": false,
+      "calories": "550",
+      "category": "main-courses",
+      "selectedIngredients": [
+        { "name": "Wheat bun" },
+        { "name": "Crispy shrimps" },
+        { "name": "Pickles" },
+        { "name": "Seafood sauce" }
+      ],
+      "fileName": "https://img.freepik.com/premium-vector/hand-drawn-cartoon-hamburger-illustration_561641-3665.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Red Beets Burger",
+      "weight": "300",
+      "price": "12.99",
+      "isVegan": true,
+      "calories": "450",
+      "category": "main-courses",
+      "selectedIngredients": [
+        { "name": "Red bun" },
+        { "name": "Beet patty" },
+        { "name": "Corn" },
+        { "name": "Lettuce" },
+        { "name": "Mayo sauce" }
+      ],
+      "fileName": "https://eatthegains.com/wp-content/uploads/2020/07/Beet-Burger-5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Avocazy Burger",
+      "weight": "350",
+      "price": "12.99",
+      "isVegan": true,
+      "calories": "500",
+      "category": "main-courses",
+      "selectedIngredients": [
+        { "name": "Wheat bun" },
+        { "name": "Veggie patty" },
+        { "name": "Avocado" },
+        { "name": "Cabbage" },
+        { "name": "Lettuce" }
+      ],
+      "fileName": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFg5XEqVQ6qTsIr-6EoNh51cgH2SPRtSwMQ&s"
+    },
+    {
+      "id": 4,
+      "name": "Teriyaki Burger",
+      "weight": "350",
+      "price": "17.99",
+      "isVegan": false,
+      "calories": "600",
+      "category": "main-courses",
+      "selectedIngredients": [
+        { "name": "Black bun" },
+        { "name": "Tuna steak" },
+        { "name": "Tomato" },
+        { "name": "Lettuce" },
+        { "name": "Teriyaki sauce" }
+      ],
+      "fileName": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Royal Pancakes",
+      "weight": "250",
+      "price": "11.99",
+      "isVegan": true,
+      "calories": "400",
+      "category": "side-dishes",
+      "selectedIngredients": [
+        { "name": "Wheat pancakes" },
+        { "name": "Butter" },
+        { "name": "Blueberries" },
+        { "name": "Maple syrup" }
+      ],
+      "fileName": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "name": "Kimchi Fries",
+      "weight": "300",
+      "price": "9.99",
+      "isVegan": true,
+      "calories": "300",
+      "category": "side-dishes",
+      "selectedIngredients": [
+        { "name": "Potatoes" },
+        { "name": "Korean kimchi" },
+        { "name": "Salt" },
+        { "name": "Coriander" }
+      ],
+      "fileName": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "name": "Orange Juice",
+      "weight": "200",
+      "price": "3.99",
+      "isVegan": true,
+      "calories": "100",
+      "category": "drinks",
+      "selectedIngredients": [
+        { "name": "Fresh orange juice" }
+      ],
+      "fileName": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "name": "Iced Coffee",
+      "weight": "200",
+      "price": "4.99",
+      "isVegan": false,
+      "calories": "150",
+      "category": "drinks",
+      "selectedIngredients": [
+        { "name": "Coffee" },
+        { "name": "Milk" },
+        { "name": "Ice" },
+        { "name": "Sugar" }
+      ],
+      "fileName": "https://via.placeholder.com/150"
+    }
+]
